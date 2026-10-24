@@ -1,5 +1,7 @@
 # FrostKeys
 
+# This fork simply takes and builds the test and debug APK's from the repo's actions. All credits go to the original creators.
+
 <img src="assets/icon/FrostKeys_Icon_with_bg.png" alt="FrostKeys Icon" width="200">
 
 **A personalized fork of [HeliBoard](https://github.com/HeliBorg/HeliBoard) with Blur UI effects, AI writing tools, and Klipy GIF & animated sticker support.**
